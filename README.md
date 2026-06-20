@@ -145,7 +145,3 @@ The dataset is sourced from FoodHub's order management database and contains:
 | `delivery_time` | Actual delivery time |
 
 ---
-
-## 🙋 Author
-
-**Rajse** — [Hugging Face](https://huggingface.co/Rajse)
